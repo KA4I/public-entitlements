@@ -2,6 +2,6 @@
     "IsAppDLCEnabled": "55 8B EC 83 EC ?? A1 ?? ?? ?? ?? 53 56 8B D9 83 38 ?? 57 89 5D E4",
     "IsSubscribedApp": "55 8B EC 8B 45 08 83 EC ?? 85 C0 79",
     "GetDLCDataByIndex": "55 8B EC 83 7D 10 ?? 8B C1",
-    "SharedLibraryLockStatus": "55 8B EC 83 EC ?? 53 56 89 4D ?? 8D 4D ?? 6A",
-    "SharedLibraryStopPlaying": "55 8B EC 81 EC ?? ?? ?? ?? 53 56 57 89 4D ?? 8D 4D"
+    "SharedLibraryStopPlaying": "55 8B EC ?? EC 90 ?? ?? ?? 53 56 57 89 4D",
+    "FamilyGroupRunningApp": "55 8B ?? ?? EC C8 ?? ?? ?? 33"
 }
