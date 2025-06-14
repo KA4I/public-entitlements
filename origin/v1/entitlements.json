@@ -787,7 +787,7 @@
         "entitlementTag": "NFS22_KEYSTOTHECITY_CONTENT",
         "entitlementType": "DEFAULT",
         "groupName": "NFS22PC",
-        "productId": "Origin.OFR.50.0004474"
+        "productId": "Origin.OFR.50.0005165"
     },
     {
         "___name": "Vol.3 Customs Pack",
@@ -921,6 +921,34 @@
         "entitlementType": "DEFAULT",
         "groupName": "NFS22PC",
         "productId": "Origin.OFR.50.0005579"
+    },
+    {
+        "___name": "Vol.8 Catch-Up Pack",
+        "entitlementTag": "NFS22_SPVOL8CATCHUP_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0005518"
+    },
+    {
+        "___name": "Vol.9 Premium Speed Pass",
+        "entitlementTag": "NFS22_SPEEDPASSVOL9_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0005517"
+    },
+    {
+        "___name": "Ultimate Collection Upgrade",
+        "entitlementTag": "NFS_UNBOUND_COMPLETE_UPGRADE",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0005683"
+    },
+    {
+        "___name": "Porsche 959 S ‘87 Set",
+        "entitlementTag": "NFS22_CARPACKVOL8_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0005580"
     },
     {
         "___name": "Northgard - Svafnir, Clan of the Snake",
@@ -2109,6 +2137,132 @@
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x0000000000064B64"
+    },
+    {
+        "___name": "The Sims™ 4 Artist Studio Kit",
+        "entitlementTag": "SP54_ArtistStudioKit_0x000000000006A8BA:436410",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006A8BA"
+    },
+    {
+        "___name": "The Sims™ 4 Storybook Nursery Kit",
+        "entitlementTag": "SP55_StorybookNurseryKit_0x000000000006A8B1:436401",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006A8B1"
+    },
+    {
+        "___name": "The Sims™ 4 Life & Death",
+        "entitlementTag": "EP17_LifeAndDeath_0x0000000000069DFF:433663",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000069DFF"
+    },
+    {
+        "___name": "The Sims™ 4 Sweet Slumber Party Kit",
+        "entitlementTag": "SP56_SweetSlumberPartyKit_0x000000000006E7DF:452575",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006E7DF"
+    },
+    {
+        "___name": "The Sims™ 4 Cozy Kitsch Kit",
+        "entitlementTag": "SP57_CozyKitschKit_0x000000000006E7E0:452576",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006E7E0"
+    },
+    {
+        "___name": "The Sims™ 4 Comfy Gamer Kit",
+        "entitlementTag": "SP58_CozyGamerClutter_0x000000000006E828:452648",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006E828"
+    },
+    {
+        "___name": "The Sims™ 4 Secret Sanctuary Kit",
+        "entitlementTag": "SP59_SecretSanctuaryKit_0x000000000006F575:456053",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006F575"
+    },
+    {
+        "___name": "The Sims™ 4 Casanova Cave Kit",
+        "entitlementTag": "SP60_CasanovaCaveKit_0x000000000006F576:456054",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006F576"
+    },
+    {
+        "___name": "The Sims™ 4 Refined Living Room Kit",
+        "entitlementTag": "SP61_RefinedLivingRoom_0x0000000000070A7F:461439",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000070A7F"
+    },
+    {
+        "___name": "The Sims™ 4 Business Chic Kit",
+        "entitlementTag": "SP62_BusinessChic_0x0000000000070A80:461440",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000070A80"
+    },
+    {
+        "___name": "The Sims™ 4 Businesses & Hobbies (normal)",
+        "entitlementTag": "EP18_BusinessesAndHobbies_0x0000000000064E47:413255",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000064E47"
+    },
+    {
+        "___name": "The Sims™ 4 Businesses & Hobbies (preorder)",
+        "entitlementTag": "EP18_PrePurchase_0x000000000006A9D8:436696",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006A9D8"
+    },
+    {
+        "___name": "The Sims™ 4 Businesses & Hobbies (bonuses only)",
+        "entitlementTag": "EP18_IncentiveItems_0x000000000006A9D7:436695",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006A9D7"
+    },
+    {
+        "___name": "The Sims™ 4 Sleek Bathroom Kit",
+        "entitlementTag": "SP63_SleekBathroomKit_0x00000000000718AF:465071",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x00000000000718AF"
+    },
+    {
+        "___name": "The Sims™ 4 Sweet Allure Kit",
+        "entitlementTag": "SP64_SweetAllureKit_0x00000000000718B0:465072",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x00000000000718B0"
+    },
+    {
+        "___name": "The Sims™ 4 Restoration Workshop Kit",
+        "entitlementTag": "SP65_RestorationWorkshopKit_0x0000000000073489:472201",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000073489"
+    },
+    {
+        "___name": "The Sims™ 4 Kitchen Clutter Kit",
+        "entitlementTag": "SP67_KitchenClutterKit_0x000000000007348B:472203",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000007348B"
+    },
+    {
+        "___name": "The Sims™ 4 Golden Years Kit",
+        "entitlementTag": "SP66_GoldenYearsKit_0x000000000007348A:472202",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000007348A"
     },
     {
         "___name": "The Sinking City - Investigator Pack",
